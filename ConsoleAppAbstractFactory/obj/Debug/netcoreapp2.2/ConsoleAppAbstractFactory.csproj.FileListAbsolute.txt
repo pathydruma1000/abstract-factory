@@ -1,0 +1,11 @@
+C:\Users\patricia.marques_ext\Documents\Estudo\ConsoleAppAbstractFactory\ConsoleAppAbstractFactory\obj\Debug\netcoreapp2.2\ConsoleAppAbstractFactory.csprojAssemblyReference.cache
+C:\Users\patricia.marques_ext\Documents\Estudo\ConsoleAppAbstractFactory\ConsoleAppAbstractFactory\obj\Debug\netcoreapp2.2\ConsoleAppAbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\patricia.marques_ext\Documents\Estudo\ConsoleAppAbstractFactory\ConsoleAppAbstractFactory\obj\Debug\netcoreapp2.2\ConsoleAppAbstractFactory.AssemblyInfoInputs.cache
+C:\Users\patricia.marques_ext\Documents\Estudo\ConsoleAppAbstractFactory\ConsoleAppAbstractFactory\obj\Debug\netcoreapp2.2\ConsoleAppAbstractFactory.AssemblyInfo.cs
+C:\Users\patricia.marques_ext\Documents\Estudo\ConsoleAppAbstractFactory\ConsoleAppAbstractFactory\bin\Debug\netcoreapp2.2\ConsoleAppAbstractFactory.deps.json
+C:\Users\patricia.marques_ext\Documents\Estudo\ConsoleAppAbstractFactory\ConsoleAppAbstractFactory\bin\Debug\netcoreapp2.2\ConsoleAppAbstractFactory.runtimeconfig.json
+C:\Users\patricia.marques_ext\Documents\Estudo\ConsoleAppAbstractFactory\ConsoleAppAbstractFactory\bin\Debug\netcoreapp2.2\ConsoleAppAbstractFactory.runtimeconfig.dev.json
+C:\Users\patricia.marques_ext\Documents\Estudo\ConsoleAppAbstractFactory\ConsoleAppAbstractFactory\bin\Debug\netcoreapp2.2\ConsoleAppAbstractFactory.dll
+C:\Users\patricia.marques_ext\Documents\Estudo\ConsoleAppAbstractFactory\ConsoleAppAbstractFactory\bin\Debug\netcoreapp2.2\ConsoleAppAbstractFactory.pdb
+C:\Users\patricia.marques_ext\Documents\Estudo\ConsoleAppAbstractFactory\ConsoleAppAbstractFactory\obj\Debug\netcoreapp2.2\ConsoleAppAbstractFactory.dll
+C:\Users\patricia.marques_ext\Documents\Estudo\ConsoleAppAbstractFactory\ConsoleAppAbstractFactory\obj\Debug\netcoreapp2.2\ConsoleAppAbstractFactory.pdb
